@@ -1,0 +1,76 @@
+/* Tang Ziqing, 14331248, 2015-10-3, recipe.css */
+
+h1 {
+    color: rgb(164, 164, 0);
+    background-color: rgb(240, 240, 240);
+    font-family: verdana;
+    font-size: 22pt;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 0.2em;
+}
+
+h2 {
+    color: rgb(164, 164, 0);
+    background-color: rgb(240, 240, 240);
+    font-family: "Century Gothic";
+    font-weight: lighter;
+    font-size: 18pt;
+    text-align: left;
+    text-decoration: underline;
+    letter-spacing: 0.1em;
+}
+
+body {
+    background-image: url("http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+p {
+    color: rgb(64, 64, 64);
+    font-size: 11pt;
+    font-family: Georgia;
+}
+
+blockquote {
+    color: rgb(64, 64, 64);
+    font-size: 11pt;
+    font-family: Georgia;
+}
+
+a {
+    color: rgb(164, 164, 0);
+    font-size: 11pt;
+    font-family: Georgia;
+}
+
+ul li {
+    color: rgb(64, 64, 64);
+    font-size: 11pt;
+    font-family: Georgia;
+    list-style-image: url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif);
+}
+
+.xieti {
+    color: rgb(64, 64, 64);
+    font-size: 11pt;
+    font-family: Georgia;
+    font-style: italic;
+    background-color: rgb(255, 255, 200);
+}
+
+.comment {
+     background-color: rgb(255, 255, 200);
+}
+
+img {
+    border: none;
+}
+
+.container {
+    border:none;
+    width: 1024px;
+    margin: 0 auto;
+}
+

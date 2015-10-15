@@ -1,0 +1,56 @@
+/* Tang Ziqing, 14331248, 2015-10-3, index.css */
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 40pt;
+    font-family: Verdana;
+    color: #FF7F50;
+    letter-spacing: 0.2em;
+}
+
+p.shout {
+    text-align: center;
+    font-size: 15pt;
+    letter-spacing: 0.2em;
+    color: #F4A460;
+    font-family: Courier;
+}
+
+img {
+    border: dotted #FF7F50;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 22pt;
+    font-family: monospace;
+    color: #FF8800 ;
+    letter-spacing: 0.1em;
+}
+
+a {
+    text-decoration: underline;
+    font-size: 14pt;
+    font-family: Verdana;
+    color: #FF8800 ;
+    font-weight: bold;
+}
+
+p.b {
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+hr{
+    border: 2px dotted #FF8888;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
